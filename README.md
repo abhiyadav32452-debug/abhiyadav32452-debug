@@ -7,7 +7,7 @@
 
 <!-- Snake Game Repo View -->
 <div align="center">
-<img src="https://profile-readme-genertor.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/abhiyadav32452-debug/abhiyadav32452-debug/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 # 💻 Tech Stack:
