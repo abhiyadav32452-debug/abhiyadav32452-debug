@@ -1,5 +1,14 @@
-# 💫 About Me:
-<br><br>Hi, I'm **Abhinav Yadav**, a **3rd-year B.Tech Computer Science & Engineering (CSE)** student with a strong interest in **Software Development** and **Problem Solving**.<br><br>I am currently focused on mastering **Data Structures and Algorithms (DSA) using Java** and building **full-stack web applications** with the **MERN Stack (MongoDB, Express.js, React.js, and Node.js)**. I enjoy solving coding challenges, creating real-world projects, and continuously improving my development skills.<br><br>I am passionate about learning new technologies, writing clean and efficient code, and preparing for software engineering roles. My goal is to become a skilled Full Stack Developer and contribute to impactful projects while growing as a software engineer.<br><br>**Skills:**<br><br>* Java<br>* Data Structures & Algorithms (DSA)<br>* MongoDB<br>* Express.js<br>* React.js<br>* Node.js<br>* HTML, CSS, JavaScript<br>* Git & GitHub<br>
+# Hi 👋, I'm Abhinav Yadav
+
+### Full Stack MERN Developer | Java & DSA Enthusiast
+
+🎓 3rd Year B.Tech CSE Student (AKTU)
+
+💻 Passionate about building scalable web applications and solving Data Structures & Algorithms problems using Java.
+
+🚀 Currently learning Backend Development with Node.js, Express.js, MongoDB, and advancing my MERN Stack skills.
+
+🎯 Goal: Software Engineer | Full Stack Developer
 
 
 ## 🌐 Socials:
