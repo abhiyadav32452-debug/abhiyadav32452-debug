@@ -56,12 +56,21 @@
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
 </p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=abhiyadav32452-debug&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=abhiyadav32452-debug&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=abhiyadav32452-debug&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+# 📊 GitHub Stats
 
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=abhiyadav32452-debug&theme=react&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=abhiyadav32452-debug&theme=react&hide_border=false" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiyadav32452-debug&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+
+</div>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
